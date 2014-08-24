@@ -4,3 +4,4 @@
  - feature-C
  - feature-D
  - feature-E1
+ - feature-E2
